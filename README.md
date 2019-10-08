@@ -2,7 +2,7 @@
 
 Um clone de Picker 3D feito em Unity
 
-[!Picker3D](/picker3d.png)
+![Picker3D](/picker3d.png)
 
 ## Aula
 
@@ -22,7 +22,7 @@ Muito bem tenho aqui uma cena vazia e dessa vez eu vou fazer tudo dentro do Unit
 
 Tudo o que vc precisa fazer é esticar o cubo, criar novos cubos e esticar etc para formar algo que parece uma pista. Para adiantar esse processo eu já fiz sem gravar uma pista e um apanhador. O apanhador é a mesma coisa, só fui colando os retângulos até fazer esse U. Só lembra de colocar __Collision Detection__ no rigidbody do pai em __Continuous Dynamic__ para ter uma colisão mais precisa, e marca também o _isKinematic_ como __true__.
 
-[!collision](/collision.png)
+![collision](/collision.png)
 
 Então nesse jogo a gente precisa:
 
