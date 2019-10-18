@@ -6,7 +6,7 @@ Um clone de Picker 3D feito em Unity
 
 ## Aula
 
-Link para vídeo aula aqui: 
+Link para vídeo aula aqui: https://youtu.be/8mjcjuc788k
 
 ## Introdução
 
